@@ -1,7 +1,7 @@
 import java.util.Random;
 import java.util.Scanner;
 
-public class Subtração {
+public class Adivinha {
     public static void main(String[] args) {
 
         System.out.println("*********************************");
