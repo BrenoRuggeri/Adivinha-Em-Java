@@ -35,8 +35,8 @@ Ao iniciar o programa, o jogador é solicitado a escolher um dos seguintes níve
 Para compilar e executar este jogo:
 
 ```bash
-javac Subtração.java
-java Subtração
+javac Adivinha.java
+java Adivinha
 ```
 
 ⚠️ É necessário ter o Java instalado na sua máquina.
